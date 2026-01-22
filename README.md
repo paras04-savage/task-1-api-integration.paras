@@ -38,3 +38,4 @@ This task helped me gain hands-on experience with API integration, asynchronous 
 
 ## OUTPUT
 The final output is a responsive Weather Application that dynamically fetches and displays real-time weather data based on user input.
+<img width="1353" height="683" alt="Image" src="https://github.com/user-attachments/assets/4ebe542e-0f1f-486b-af3b-8be883edcc7a" />
